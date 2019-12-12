@@ -1,5 +1,7 @@
 # anotherwebsite
 
+Source code to the [How to publish a Vue.js project using GitHub Pages](http://www.ceejaysmedia.com/dotCeeJayS/how-to-publish-a-vue-js-project-using-github-pages/) blog post.
+
 ## Project setup
 ```
 npm install
